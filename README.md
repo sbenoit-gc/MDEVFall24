@@ -9,7 +9,8 @@ A github repository for the in class demonstration code for fall 2024 MDEV1003. 
 Clone, or download the zip, to a local directory. Open in Unreal Engine 5.4 or newer
 
 ## Attributions
-1. 
+1. Chucky Stabbing animation, Mixamo, ( https://www.mixamo.com/#/ )
+
 
 
 
