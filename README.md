@@ -11,8 +11,7 @@ Clone, or download the zip, to a local directory. Open in Unreal Engine 5.4 or n
 ## Attributions
 1. Chucky Stabbing animation, Mixamo, ( https://www.mixamo.com/#/ )
 2. Instructor model created with ReadyPlayer.Me
-3.
-
+3. Mouse from Mixamo site with basic animations, Mouse ch14, ( https://www.mixamo.com/#/?page=1&type=Character )
 
 
 
